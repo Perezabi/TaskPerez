@@ -14,5 +14,13 @@ public class TaskOne {
 		System.out.println("Three");
 
 	}
-	
+	private void four() {
+		System.out.println("Four");
+	}
+	private void five() {
+		System.out.println("Five");
+	}
+	private void six() {
+		System.out.println("Six");
+	}
 }
