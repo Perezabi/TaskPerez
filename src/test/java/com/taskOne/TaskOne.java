@@ -23,4 +23,14 @@ public class TaskOne {
 	private void six() {
 		System.out.println("Six");
 	}
+	private void ten() {
+		System.out.println("Ten");
+	}
+	private void twenty() {
+		System.out.println("Twenty");
+	}
+	private void thirty() {
+		System.out.println("Thirty");
+
+	}
 }
